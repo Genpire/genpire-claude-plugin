@@ -1,0 +1,18 @@
+{
+  "name": "genpire",
+  "version": "1.0.0",
+  "description": "Design products in your Genpire account from Claude: create a product from a description or an idea, change or redraw it, compare three options, apply your brand style, make a size guide, specs or a tech pack, try colours and Pantone matches, make moodboards, print files and Studio images, and prepare a factory quote request. Uses your existing Genpire plan; usage is shown as a percentage. Built and powered by Genpire.",
+  "author": {
+    "name": "Genpire",
+    "email": "support@genpire.com",
+    "url": "https://www.genpire.com"
+  },
+  "homepage": "https://www.genpire.com/integrations/ai-assistants",
+  "license": "Proprietary",
+  "keywords": ["product design", "tech pack", "fashion", "manufacturing", "genpire"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://www.genpire.com/integrations/ai-assistants",
+  "supportUrl": "https://www.genpire.com/integrations/ai-assistants#support",
+  "privacyPolicyUrl": "https://www.genpire.com/privacy",
+  "termsOfServiceUrl": "https://www.genpire.com/terms"
+}
